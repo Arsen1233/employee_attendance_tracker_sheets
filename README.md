@@ -4,11 +4,11 @@ A simple **Google Sheets Employee Attendance Tracker** designed as a mini HR pro
 Tracks employee attendance, summarizes data, and visualizes attendance performance with a dashboard chart.
 
 ## Features
- **Attendance Log** – raw data entry (Date, Employee Name, Status: Present/Absent/Late)
- **Summary Sheet** – calculates total days, present, absent, late, and attendance percentage per employee
- **Dashboard** – chart visualizing overall employee attendance percentage
- **Conditional Formatting** – highlights Present (Green), Absent (Red), Late (Orange)
- **Pivot Table** – automatically summarizes attendance by employee
+ -**Attendance Log** – raw data entry (Date, Employee Name, Status: Present/Absent/Late)
+ -**Summary Sheet** – calculates total days, present, absent, late, and attendance percentage per employee
+ -**Dashboard** – chart visualizing overall employee attendance percentage
+ -**Conditional Formatting** – highlights Present (Green), Absent (Red), Late (Orange)
+ -**Pivot Table** – automatically summarizes attendance by employee
  
  ## Use Case
 - HR Mini Project  

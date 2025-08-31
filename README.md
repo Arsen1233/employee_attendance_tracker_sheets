@@ -15,6 +15,6 @@ Tracks employee attendance, summarizes data, and visualizes attendance performan
 - Portfolio showcase for Excel/Google Sheets skills  
 - Employee attendance analysis
 
-- ## 📌 Note
+- ##  Note
 This is a **mini project** created for learning purposes using dummy data.  
 It can be extended with payroll integration or advanced dashboards.
